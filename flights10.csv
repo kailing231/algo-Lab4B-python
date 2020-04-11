@@ -1,0 +1,19 @@
+﻿SrcCity,DestCity
+Singapore,Shanghai
+Singapore,Hong Kong
+Hong Kong,Shanghai
+Shanghai,Beijing
+Beijing,Hong Kong
+Seoul,Singapore
+Seoul,Tokyo
+Tokyo,Singapore
+Tokyo,Osaka
+Osaka,Shanghai
+Osaka,Singapore
+Los Angeles,Sydney
+Los Angeles,New York
+Los Angeles,Shanghai
+Sydney,New York
+Sydney,Shanghai
+New York,Shanghai
+New York,Singapore
