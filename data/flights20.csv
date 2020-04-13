@@ -1,0 +1,44 @@
+﻿SrcCity,DestCity
+Singapore,Shanghai
+Singapore,Hong Kong
+Hong Kong,Shanghai
+Shanghai,Beijing
+Beijing,Hong Kong
+Seoul,Singapore
+Seoul,Tokyo
+Tokyo,Singapore
+Tokyo,Osaka
+Osaka,Shanghai
+Osaka,Singapore
+Los Angeles,Sydney
+Los Angeles,New York
+Los Angeles,Shanghai
+Sydney,New York
+Sydney,Shanghai
+New York,Shanghai
+New York,Singapore
+Kuala Lumpur,London
+Kuala Lumpur,Singapore
+London,Shanghai
+London,Seoul
+London,New York
+Paris,Sydney
+Paris,Rome
+Paris,New York
+Johannesburg,Rome
+Johannesburg,London
+Rome,London
+Guangzhou,Hong Kong
+Guangzhou,Shanghai
+Bangkok,Tokyo
+Bangkok,Shanghai
+Bangkok,Singapore
+Jakarta,Bangkok
+Jakarta,Singapore
+Taipei,Guangzhou
+Taipei,Hong Kong
+Taipei,Singapore
+Taipei,Shanghai
+Seattle,Sydney
+Seattle,London
+Seattle,Singapore
