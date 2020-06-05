@@ -10,8 +10,8 @@ Manually create your graphs easily using `pyvis` https://pyvis.readthedocs.io/en
 ## Preview
 *JIGGLE*
 
-![JIGGLE](JIGGLE.gif)
+![JIGGLE](gif/JIGGLE.gif)
 
 quick showcase
 
-![showcase](showcase.gif)
+![showcase](gif/showcase.gif)
